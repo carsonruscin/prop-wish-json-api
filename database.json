@@ -353,16 +353,16 @@
     {
       "imgUrl": "https://flyfive33.com/cdn/shop/files/IMG_1554_74847da1-4109-4d1d-9a6f-a7f5f210bffe.jpg?v=1704302860",
       "droneName": "Five33 Tiny Trainer HD",
-      "description": "Weight: 250grams",
+      "description": "Weight: 255grams",
       "propSizeOptionsId": 2,
-      "batterySizeOptionsId": 2,
+      "batterySizeOptionsId": 1,
       "userId": 6,
       "id": 38
     },
     {
       "imgUrl": "https://flyfive33.com/cdn/shop/products/IMG_4320-scaled.jpg?v=1687576170&width=1080",
       "droneName": "Five33 Switchback",
-      "description": "Weight: 550grams",
+      "description": "Weight: 555grams",
       "propSizeOptionsId": 4,
       "batterySizeOptionsId": 3,
       "userId": 6,
@@ -370,11 +370,6 @@
     }
   ],
   "favoritedPosts": [
-    {
-      "userId": 5,
-      "postId": 15,
-      "id": 4
-    },
     {
       "userId": 5,
       "postId": 21,
@@ -417,11 +412,6 @@
     },
     {
       "userId": 6,
-      "postId": 35,
-      "id": 13
-    },
-    {
-      "userId": 6,
       "postId": 29,
       "id": 14
     },
@@ -429,6 +419,11 @@
       "userId": 6,
       "postId": 24,
       "id": 15
+    },
+    {
+      "userId": 5,
+      "postId": 15,
+      "id": 16
     }
   ],
   "propSizeOptions": [
