@@ -353,9 +353,9 @@
     {
       "imgUrl": "https://flyfive33.com/cdn/shop/files/IMG_1554_74847da1-4109-4d1d-9a6f-a7f5f210bffe.jpg?v=1704302860",
       "droneName": "Five33 Tiny Trainer HD",
-      "description": "Weight: 255grams",
+      "description": "Weight: 265grams",
       "propSizeOptionsId": 2,
-      "batterySizeOptionsId": 1,
+      "batterySizeOptionsId": 2,
       "userId": 6,
       "id": 38
     },
@@ -367,6 +367,15 @@
       "batterySizeOptionsId": 3,
       "userId": 6,
       "id": 39
+    },
+    {
+      "imgUrl": "https://i.ytimg.com/vi/PCjmgtjOdH4/maxresdefault.jpg",
+      "droneName": "QAV S-2",
+      "description": "Weight: 670grams",
+      "propSizeOptionsId": 4,
+      "batterySizeOptionsId": 3,
+      "userId": 6,
+      "id": 40
     }
   ],
   "favoritedPosts": [
@@ -407,11 +416,6 @@
     },
     {
       "userId": 6,
-      "postId": 34,
-      "id": 12
-    },
-    {
-      "userId": 6,
       "postId": 29,
       "id": 14
     },
@@ -424,6 +428,11 @@
       "userId": 5,
       "postId": 15,
       "id": 16
+    },
+    {
+      "userId": 6,
+      "postId": 17,
+      "id": 17
     }
   ],
   "propSizeOptions": [
